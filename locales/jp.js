@@ -1,0 +1,36 @@
+export default {
+	todo: {
+		"No project": "プロジェクトなし",
+		"Search project": "プロジェクトを検索",
+		"Add project": "プロジェクトを追加",
+		"Rename project": "プロジェクトの名前を変更する",
+		"Delete project": "プロジェクトを削除する",
+
+		"Add task below": "以下にタスクを追加",
+		"Add subtask": "サブタスクを追加",
+		"Set due date": "期日を設定",
+		Indent: "インデント",
+		Unindent: "インデント解除",
+		"Assign to": "割りあてる",
+		"Move to": "へ引っ越す",
+		Duplicate: "複製",
+		Copy: "コピー",
+		Paste: "ペースト",
+		Delete: "消去",
+
+		Enter: "Enter",
+		Tab: "Tab",
+		"Shift+Tab": "Shift+Tab",
+		"Ctrl+D": "Ctrl+D",
+		"Ctrl+C": "Ctrl+C",
+		"Ctrl+V": "Ctrl+V",
+		"CMD+D": "CMD+D",
+		"CMD+C": "CMD+C",
+		"CMD+V": "CMD+V",
+
+		"Type what you want": "必要なものを入力してください",
+		Search: "探す",
+		"Add task": "タスクを追加",
+		"New project": "新しい計画",
+	},
+};

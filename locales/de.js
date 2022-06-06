@@ -1,0 +1,36 @@
+export default {
+	todo: {
+		"No project": "Kein Projekt",
+		"Search project": "Projekt suchen",
+		"Add project": "Projekt hinzufügen",
+		"Rename project": "Projekt umbenennen",
+		"Delete project": "Projekt löschen",
+
+		"Add task below": "Aufgabe unten hinzufügen",
+		"Add subtask": "Unteraufgabe hinzufügen",
+		"Set due date": "Fälligkeitsdatum festlegen",
+		Indent: "Einzug",
+		Unindent: "Nicht einrücken",
+		"Assign to": "Zuweisen",
+		"Move to": "Ziehen nach",
+		Duplicate: "Duplikat",
+		Copy: "Kopieren",
+		Paste: "Einfügung",
+		Delete: "Löschen",
+
+		Enter: "Enter",
+		Tab: "Tab",
+		"Shift+Tab": "Shift+Tab",
+		"Ctrl+D": "Ctrl+D",
+		"Ctrl+C": "Ctrl+C",
+		"Ctrl+V": "Ctrl+V",
+		"CMD+D": "CMD+D",
+		"CMD+C": "CMD+C",
+		"CMD+V": "CMD+V",
+
+		"Type what you want": "Warten auf Eingabe",
+		Search: "Suche",
+		"Add task": "Aufgabe hinzufügen",
+		"New project": "Neues Projekt",
+	},
+};

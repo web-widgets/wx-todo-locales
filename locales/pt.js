@@ -1,0 +1,36 @@
+export default {
+	todo: {
+		"No project": "Nenhum projeto",
+		"Search project": "Pesquisar projeto",
+		"Add project": "Adicionar projeto",
+		"Rename project": "Renomear projeto",
+		"Delete project": "Excluir projeto",
+
+		"Add task below": "Adicionar tarefa abaixo",
+		"Add subtask": "Adicionar subtarefa",
+		"Set due date": "Definir data de vencimento",
+		Indent: "Recuar",
+		Unindent: "Sem recuo",
+		"Assign to": "Atribuir a",
+		"Move to": "Mover para",
+		Duplicate: "Duplicado",
+		Copy: "Сópia de",
+		Paste: "Colar",
+		Delete: "Excluir",
+
+		Enter: "Enter",
+		Tab: "Tab",
+		"Shift+Tab": "Shift+Tab",
+		"Ctrl+D": "Ctrl+D",
+		"Ctrl+C": "Ctrl+C",
+		"Ctrl+V": "Ctrl+V",
+		"CMD+D": "CMD+D",
+		"CMD+C": "CMD+C",
+		"CMD+V": "CMD+V",
+
+		"Type what you want": "Digite o que deseja",
+		Search: "Procurar",
+		"Add task": "Adicionar tarefa",
+		"New project": "Novo projeto",
+	},
+};

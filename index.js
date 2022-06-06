@@ -1,3 +1,9 @@
-export { default as ru } from "./locales/ru";
 export { default as en } from "./locales/en";
+export { default as ru } from "./locales/ru";
 export { default as cn } from "./locales/cn";
+export { default as de } from "./locales/de";
+export { default as es } from "./locales/es";
+export { default as fr } from "./locales/fr";
+export { default as it } from "./locales/it";
+export { default as jp } from "./locales/jp";
+export { default as pt } from "./locales/pt";

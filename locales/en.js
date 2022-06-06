@@ -1,3 +1,36 @@
 export default {
-	todo: {},
+	todo: {
+		"No project": "No project",
+		"Search project": "Search project",
+		"Add project": "Add project",
+		"Rename project": "Rename project",
+		"Delete project": "Delete project",
+
+		"Add task below": "Add task below",
+		"Add subtask": "Add subtask",
+		"Set due date": "Set due date",
+		Indent: "Indent",
+		Unindent: "Unindent",
+		"Assign to": "Assign to",
+		"Move to": "Move to",
+		Duplicate: "Duplicate",
+		Copy: "Copy",
+		Paste: "Paste",
+		Delete: "Delete",
+
+		Enter: "Enter",
+		Tab: "Tab",
+		"Shift+Tab": "Shift+Tab",
+		"Ctrl+D": "Ctrl+D",
+		"Ctrl+C": "Ctrl+C",
+		"Ctrl+V": "Ctrl+V",
+		"CMD+D": "CMD+D",
+		"CMD+C": "CMD+C",
+		"CMD+V": "CMD+V",
+
+		"Type what you want": "Type what you want",
+		Search: "Search",
+		"Add task": "Add task",
+		"New project": "New project",
+	},
 };

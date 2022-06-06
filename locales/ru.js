@@ -1,3 +1,36 @@
 export default {
-	todo: {},
+	todo: {
+		"No project": "Без проекта",
+		"Search project": "Поиск проекта",
+		"Add project": "Добавить проект",
+		"Rename project": "Переименовать проект",
+		"Delete project": "Удалить проект",
+
+		"Add task below": "Добавить задачу ниже",
+		"Add subtask": "Добавить подзадачу",
+		"Set due date": "Установить срок",
+		Indent: "Добавить отступ",
+		Unindent: "Убрать отступ",
+		"Assign to": "Назначить",
+		"Move to": "Переместить",
+		Duplicate: "Дублировать",
+		Copy: "Копировать",
+		Paste: "Вставить",
+		Delete: "Удалить",
+
+		Enter: "Enter",
+		Tab: "Tab",
+		"Shift+Tab": "Shift+Tab",
+		"Ctrl+D": "Ctrl+D",
+		"Ctrl+C": "Ctrl+C",
+		"Ctrl+V": "Ctrl+V",
+		"CMD+D": "CMD+D",
+		"CMD+C": "CMD+C",
+		"CMD+V": "CMD+V",
+
+		"Type what you want": "Ожидание ввода",
+		Search: "Поиск",
+		"Add task": "Добавить задачу",
+		"New project": "Новый проект",
+	},
 };
