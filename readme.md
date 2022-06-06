@@ -1,4 +1,4 @@
-Locales for WX Query
+Locales for WX Todo
 =====================
 
 

@@ -1,14 +1,14 @@
 {
-    "name": "@xbs/wx-query-locales",
+    "name": "@xbs/wx-todo-locales",
     "version": "0.1.0",
-    "description": "Locales for WX Query widget",
+    "description": "Locales for WX Todo widget",
     "main": "index.js",
     "scripts": {
         "lint": "yarn eslint ./ --ext .ts,.js"
     },
     "keywords": [
         "wx",
-        "query",
+        "todo",
         "locales"
     ],
     "author": "",
