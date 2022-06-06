@@ -1,0 +1,21 @@
+{
+    "name": "@xbs/wx-query-locales",
+    "version": "0.1.0",
+    "description": "Locales for WX Query widget",
+    "main": "index.js",
+    "scripts": {
+        "lint": "yarn eslint ./ --ext .ts,.js"
+    },
+    "keywords": [
+        "wx",
+        "query",
+        "locales"
+    ],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "husky": "^8.0.1",
+        "prettier": "^2.6.2",
+        "pretty-quick": "^3.1.3"
+    }
+}

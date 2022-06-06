@@ -1,0 +1,4 @@
+Locales for WX Query
+=====================
+
+
